@@ -1,0 +1,35 @@
+body{
+    font-size: 75px;
+    margin-left: 100px;
+    margin-right: 100px;
+    align-items: center;
+}
+
+h1{
+color: rgb(255, 6, 8);
+text-align: center;
+}
+h2{
+    font-size: 50px;
+    color: rgb(49, 10, 192);
+    text-align:center
+}
+table ,tr ,th , td{
+    width: 300px;
+    border: 15px solid rgb(255, 0, 221);
+    padding: 50px;
+    margin: 20px;
+  }
+h3{
+    color: rgb(235, 0, 0);
+    font-size: 150px;
+    background-color: aqua;
+}
+h4{
+    font-size: 100px;
+    color: rgb(196, 137, 10);
+}
+h5{
+    font-size: 100px;
+    color: rgb(197, 106, 133);
+}
